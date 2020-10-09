@@ -1,2 +1,2 @@
 # discord-clone
-Clone Discord in ReactJS
+Clone Discord in ReactJS and Redux
